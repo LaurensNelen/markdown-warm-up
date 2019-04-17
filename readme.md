@@ -1,6 +1,6 @@
 # Assignment MarkDown
   * What website did you find (url, name,...)
-    * [Click me](http://www.treasure-pot.be/){: .btn}[Site]
+    * [Show Site](http://www.treasure-pot.be/)
     
     ![enter image description here](http://www.treasure-pot.be/Afbeeldingen/head.jpg)
     * chinese restaurant
