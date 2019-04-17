@@ -1,7 +1,8 @@
 # Assignment MarkDown
   * What website did you find (url, name,...)
     * http://www.treasure-pot.be/
-    * treasure pot, chinees restaurant
+    * ![enter image description here](http://www.treasure-pot.be/Afbeeldingen/head.jpg)
+    * chinese restaurant
   * Does it get regular updates ?
     * No
   * How did you find it ?
