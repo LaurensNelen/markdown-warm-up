@@ -1,13 +1,13 @@
 # Assignment MarkDown
   * What website did you find (url, name,...)
-    * http://www.treasure-pot.be/
+    * [button](http://www.treasure-pot.be/)
     
     ![enter image description here](http://www.treasure-pot.be/Afbeeldingen/head.jpg)
     * chinese restaurant
   * Does it get regular updates ?
-    * No
+    * No the site been like that for a long time. But some prices update but is still inacurate.
   * How did you find it ?
-    * Saw it before.
+    * Saw it last week when i wanted to order chinese food.
   * Why does this website need an update / complete makeover ?
     * The website needs a total makeover. Only the text is okay but the placements and graphics is very simplistic.
   * Is this website active on social media ?
