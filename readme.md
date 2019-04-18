@@ -15,3 +15,4 @@
     * They need to change their background cos the one color doesnt look that attractive to eat after.
     * Maybe own order system or link to justeat
     * They need to make a responsive website and atleast one that works perfectly on a phone.
+    hahaha
