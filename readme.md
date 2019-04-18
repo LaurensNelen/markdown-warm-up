@@ -2,7 +2,7 @@
   * What website did you find (url, name,...)
   
     ![enter image description here](http://www.treasure-pot.be/Afbeeldingen/head.jpg)
-     * [Show Site](http://www.treasure-pot.be/)
+     * *[Show Site](http://www.treasure-pot.be/)*
   * Does it get regular updates ?
     * No the site has been like that for a long time. But some prices update.
   * How did you find it ?
