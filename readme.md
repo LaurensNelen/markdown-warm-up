@@ -1,9 +1,8 @@
 # Assignment MarkDown
   * What website did you find (url, name,...)
-    * [Show Site](http://www.treasure-pot.be/)
-    
+  
     ![enter image description here](http://www.treasure-pot.be/Afbeeldingen/head.jpg)
-    * chinese restaurant
+     * [Show Site](http://www.treasure-pot.be/)
   * Does it get regular updates ?
     * No the site been like that for a long time. But some prices update but is still inacurate.
   * How did you find it ?
