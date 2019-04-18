@@ -4,7 +4,7 @@
     ![enter image description here](http://www.treasure-pot.be/Afbeeldingen/head.jpg)
      * [Show Site](http://www.treasure-pot.be/)
   * Does it get regular updates ?
-    * No the site has been like that for a long time. But some prices update but is still inacurate.
+    * No the site has been like that for a long time. But some prices update.
   * How did you find it ?
     * Saw it last week when i wanted to order chinese food.
   * Why does this website need an update / complete makeover ?
