@@ -8,7 +8,7 @@
   * How did you find it ?
     * Saw it last week when i wanted to order chinese food.
   * Why does this website need an update / complete makeover ?
-    * The website needs a total makeover. Only the text is okay but the placements and graphics is very simplistic.
+    * The website needs a **total makeover**. Only the text is okay but the placements and graphics is very simplistic.
   * Is this website active on social media ?
     * They have a **facebook profile** but most of the post are from customers themselfs eating in the restaurant.
   * Make a list with the top three things you would change first (and explain why those three specifically)
